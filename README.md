@@ -213,7 +213,7 @@ The completed order is then removed from the active workflow.
 ### Main Interface & Client Services
 
 <p align="center">
-  <img src="ss1.png" width="850" alt="Surgical Industry Management System Console Screenshot 1">
+  <img src="./ss1.png" width="850" alt="Surgical Industry Management System Console Screenshot 1">
 </p>
 
 ### Order Processing & Organizational Workflow
